@@ -1,0 +1,38 @@
+﻿ASSIGNMENT QUESTION
+Q1. Write a simple program in HTML  that displays the heading "HTML defines the content and structure of your website” on the web browser?
+Ans- Link https://drive.google.com/drive/folders/1p8LfPD0JutE8hz2LC6a9TMbDZlVcrds_
+
+
+Q2.Explain the purpose of comments in html and provide an example of how to use comments in an HTML document?
+Ans-The comment tag is used to insert comments in the source code .
+Comment are not displayed in the browsers. 
+single -line comment 
+Inline comment.
+multi - line comment.
+                  <!-- something  - ->
+                // write something
+
+
+link
+
+
+Q3.Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.
+Arrange these elements to create a simple web page layout?
+Ans- heading h1 to h6 <h1>_____</h1>
+Paragraph tag <p> ____ </p>
+Horizontal line <hr> 
+Line break <br>
+link
+Q4.write a short note on tag and element with an example?
+Ans- An HTML tag is a keyword surrounded by angle brackets(<>).It is used to identify the start and end of an HTML element.
+Like p tag
+<p> This is paragraph </p>
+The <p> tag is the start tag and the </p> tag is the end tag.
+
+
+
+
+Q5. What is the DOCTYPE Declaration in HTML?
+Ans- All HTML documents must start with a <!DOCTYPE> declaration.
+The declaration is not an HTML tag. It is an information to browser about what document type to expect.
+<!DOCTYPE html>
